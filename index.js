@@ -43,6 +43,7 @@ function swapTurn() {
 	gameInfo.innerText = `Current Player - ${currentPlayer}`;
 }
 
+/// MOST VVI PART
 function checkGameOver() {
 	let answer = "";
 
